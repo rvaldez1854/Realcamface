@@ -286,6 +286,8 @@ Looking for a CLI mode? Using the -s/--source argument will make the run program
 
 ## Credits
 
+This project is tested with BrowserStack
+
 -   [ffmpeg](https://ffmpeg.org/): for making video-related operations easy
 -   [deepinsight](https://github.com/deepinsight): for their [insightface](https://github.com/deepinsight/insightface) project which provided a well-made library and models. Please be reminded that the [use of the model is for non-commercial research purposes only](https://github.com/deepinsight/insightface?tab=readme-ov-file#license).
 -   [havok2-htwo](https://github.com/havok2-htwo): for sharing the code for webcam
