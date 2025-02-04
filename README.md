@@ -302,6 +302,25 @@ This project is tested with BrowserStack
 
 [![Stargazers](https://reporoster.com/stars/hacksider/Deep-Live-Cam)](https://github.com/hacksider/Deep-Live-Cam/stargazers)
 
+‎## Acknowledgements
+‎
+‎We would like to thank all contributors, developers, and community members who helped make this project possible.
+
+
+‎
+‎## License
+‎
+
+‎This project is licensed under the GNU Affero General Public License (AGPL) Version 3. See the [LICENSE](LICENSE) file for details.
+‎
+‎
+
+
+‎## Contact
+‎
+‎For any questions or support, please contact us at [Akibprobro@gmail.com](mailto:Akibprobro@gmail).
+
+
 ## Contributions
 
 ![Alt](https://repobeats.axiom.co/api/embed/fec8e29c45dfdb9c5916f3a7830e1249308d20e1.svg "Repobeats analytics image")
