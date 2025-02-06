@@ -5,7 +5,7 @@ __pycache__/
 .idea
 .todo
 *.log
-*.backup
+*.backupt
 tf_env/
 *.png
 *.mp4
