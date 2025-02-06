@@ -1,6 +1,6 @@
 __pycache__/
 *.py[cod]
-*$py.class
+*$py.clas
 *.pyc
 .idea
 .todo
